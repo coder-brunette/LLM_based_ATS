@@ -1,4 +1,4 @@
-# LLM_based_Application_tracking_system
+# LLM based application tracking system
 
 Developed an ATS using Streamlit and Google Gemini Pro to evaluate resumes, providing match percentages, missing keywords, and profile summaries based on job descriptions with advanced generative AI capabilities.
 
